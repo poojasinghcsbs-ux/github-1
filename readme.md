@@ -1,1 +1,1 @@
-this is my second updatte after learning gits
+this is my second update after learning git
